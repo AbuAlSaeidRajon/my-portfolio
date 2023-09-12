@@ -45,8 +45,10 @@ nav ul{
 .banner-sub-title{
     font-weight: 600;
     font-size: 45px;
+    margin: 20px;
 }
 .banner-description{
     color: #757575;
     font-size: 18px;
+    margin: 30px;
 }
