@@ -1,3 +1,6 @@
+.text-primary{
+    color: #fd6e0a;
+}
 * {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
@@ -6,9 +9,6 @@
 .nav-title{
     font-weight: 800;
     font-size: 45px;
-}
-.text-primary{
-    color: #fd6e0a;
 }
 nav{
     display: flex;
@@ -21,4 +21,14 @@ nav li{
 }
 nav ul{
     display: flex;
+    align-items: center;
+}
+.button-primary{
+    height: 64px;
+    border-radius: 5px;
+    background: #fd6e0a;
+    color: #ffffff;
+    font-weight: 700;
+    border: 0;
+    padding: 18px 35px;
 }
