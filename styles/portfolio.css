@@ -76,13 +76,15 @@ main{
 }
 /* about section styles*/
 .about{
+    text-align: center;
     margin-top: 130px;
     background: #fff8f3;
     border-radius: 10px;
     padding: 130px 160px;
 }
 .section-title{
-    text-align: center;
+    font-weight: 700px;
+    font-size: 35px;
     margin-bottom: 30px;
 }
 .section-description{
