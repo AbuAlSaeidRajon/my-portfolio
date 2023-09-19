@@ -132,3 +132,7 @@ section{
 }
 
 /* Resume Styles */
+
+.resume-content{
+    display: flex;
+}
